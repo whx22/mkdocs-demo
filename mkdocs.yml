@@ -1,3 +1,4 @@
 site_name: mkdocs-demo
 theme:
   name: material
+  custom_dir: overrides
